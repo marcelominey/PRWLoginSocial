@@ -1,0 +1,12 @@
+C:\Users\22386773809\backend\PRWLoginSocial\bin\Debug\netcoreapp2.0\app.db
+C:\Users\22386773809\backend\PRWLoginSocial\bin\Debug\netcoreapp2.0\PRWLoginSocial.deps.json
+C:\Users\22386773809\backend\PRWLoginSocial\bin\Debug\netcoreapp2.0\PRWLoginSocial.runtimeconfig.json
+C:\Users\22386773809\backend\PRWLoginSocial\bin\Debug\netcoreapp2.0\PRWLoginSocial.runtimeconfig.dev.json
+C:\Users\22386773809\backend\PRWLoginSocial\bin\Debug\netcoreapp2.0\PRWLoginSocial.dll
+C:\Users\22386773809\backend\PRWLoginSocial\bin\Debug\netcoreapp2.0\PRWLoginSocial.pdb
+C:\Users\22386773809\backend\PRWLoginSocial\obj\Debug\netcoreapp2.0\PRWLoginSocial.csproj.CoreCompileInputs.cache
+C:\Users\22386773809\backend\PRWLoginSocial\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\22386773809\backend\PRWLoginSocial\obj\Debug\netcoreapp2.0\PRWLoginSocial.AssemblyInfoInputs.cache
+C:\Users\22386773809\backend\PRWLoginSocial\obj\Debug\netcoreapp2.0\PRWLoginSocial.AssemblyInfo.cs
+C:\Users\22386773809\backend\PRWLoginSocial\obj\Debug\netcoreapp2.0\PRWLoginSocial.dll
+C:\Users\22386773809\backend\PRWLoginSocial\obj\Debug\netcoreapp2.0\PRWLoginSocial.pdb
